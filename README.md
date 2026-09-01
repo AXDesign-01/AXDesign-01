@@ -15,7 +15,7 @@
 - **Ferramentas:** Git, GitHub, Vercel, Netlify
 
 ##  Projetos em Destaque
-- [Landing Page Space Force](https://www.figma.com/proto/mmVVOZrG1ZYaKtRZPLL1wo/SPACE-FORCE?node-id=19-2&t=6415zwZttqHymK5A-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A3)  
+- [Landing Page Space Force]([https://www.figma.com/proto/mmVVOZrG1ZYaKtRZPLL1wo/SPACE-FORCE?node-id=19-2&t=6415zwZttqHymK5A-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A3](https://www.figma.com/proto/mmVVOZrG1ZYaKtRZPLL1wo/SPACE-FORCE?node-id=19-2&t=l8Ht0KLJq66GXqou-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A3))  
 - [Loja Fictícia React](link futuro para GitHub)  
 - [API de Filmes](link futuro para GitHub)
 
