@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Aline Xavier
 
-<!--
-**AXDesign-01/AXDesign-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Front-End Developer | UI/UX Designer | Estudante de Engenharia de Software  
 
-Here are some ideas to get you started:
+##  Sobre mim
+- Apaixonada por tecnologia e design
+- Experiência em design gráfico e social media
+- Em transição para área de desenvolvimento front-end
+- Buscando unir criatividade e programação para criar soluções digitais impactantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tecnologias
+- **Front-End:** HTML, CSS, JavaScript, React, Next.js
+- **Back-End:** Node.js, Python, MySQL
+- **Design:** Figma, Photoshop, Illustrator, CorelDRAW
+- **Ferramentas:** Git, GitHub, Vercel, Netlify
+
+##  Projetos em Destaque
+- [Landing Page Space Force](https://www.figma.com/proto/mmVVOZrG1ZYaKtRZPLL1wo/SPACE-FORCE)  
+- [Loja Fictícia React](link futuro para GitHub)  
+- [API de Filmes](link futuro para GitHub)
+
+##  Redes
+- [Behance](https://www.behance.net/alinexaviee)  
+- [Instagram](https://www.instagram.com/ax_desiignn/)  
+- [TikTok](https://www.tiktok.com/@ax_design0?lang=pt-BR)
