@@ -10,8 +10,8 @@
 
 ##  Tecnologias
 - **Front-End:** HTML, CSS, JavaScript, React, Next.js
-- **Back-End:** Node.js, Python, MySQL
-- **Design:** Figma, Photoshop, Illustrator, CorelDRAW
+- **Back-End:** Node.js, Python, MySQL, Java
+- **Design:** Figma, Photoshop, Illustrator, CorelDRAW, Elementor, Hostinger 
 - **Ferramentas:** Git, GitHub, Vercel, Netlify
 
 ##  Projetos em Destaque
